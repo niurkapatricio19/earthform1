@@ -1,0 +1,29 @@
+
+	 }
+	 h1{
+	 	font-size:40px;
+	 	font-style:bold;
+	 	color:greenyellow; 
+	 	text-align:center; 
+
+	 }
+#leftbox{
+	float:left;
+	background-color:beige;
+	width:32%;
+	height:600px;
+	margin:10px;
+}
+#middlebox{
+	float:left;
+	background-color:pink;
+	width:32%;
+	height:600px;
+	margin:10px;
+}
+#rightbox{
+	float:left;
+	background-color:skyblue;
+	width:32%;
+	height:600px;
+	margin:10px;
